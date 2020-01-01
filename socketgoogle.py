@@ -2,7 +2,7 @@
 #utf-8
 import sys
 import socket
-host = 'blias.com'
+host = 'google.com'
 port = 80
 try:
     remote_ip = socket.gethostbyname( host )
